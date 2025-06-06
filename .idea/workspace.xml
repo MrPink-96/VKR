@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b71db1c-b18e-47c7-8954-9f708fe322c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FQW.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeClient" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeServer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Character/Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Character/Death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Character/Fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Character/Heavy Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Character/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Character/Jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Character/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Character/Take Hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Heavy Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Medallion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Take Hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Weapon/Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Weapon/Heavy Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Weapon/new/Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Knight girl/Weapon/new/Heavy Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Character/Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Character/Heavy Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Character/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Character/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Heavy Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Medallion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Weapon/Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Sword man/Weapon/Heavy Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Attack_KG_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Attack_KG_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Character/Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Character/Death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Character/Fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Character/Heavy Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Character/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Character/Jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Character/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Character/Take Hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Heavy Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Medallion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Take Hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Weapon/Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Asset/Swords girl/Weapon/Heavy Attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Backgrounds/Bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Backgrounds/Coast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Backgrounds/DarkForest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Backgrounds/Factory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Backgrounds/Forest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Backgrounds/Kiosk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Backgrounds/Laboratory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Backgrounds/Market.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Fonts/PressStart2P-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Authorization/Background/LoginRegBack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Authorization/Background/LoginTexture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Authorization/Button/Entry/EntryPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Authorization/Button/Entry/EntryReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Authorization/Button/Registration/RegistrationPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Background/BattleMode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Background/BattleSearch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Background/Exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Background/FriendlyFight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Background/InBattle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Background/InBattleGold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Background/PostBattle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Background/PostBattle1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Background/PostBattleOpponent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Background/PostBattlePlayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Accept/AcceptPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Accept/AcceptReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Left/LeftPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Left/LeftReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/LevelMatch/LevelMatchPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/LevelMatch/LevelMatchReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/No/NoPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/No/NoReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Ok/OkPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Ok/OkReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/PressedDELETE/BattlePressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/PressedDELETE/BattleRankedPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/PressedDELETE/LeftPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/PressedDELETE/NoPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/PressedDELETE/OkPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/PressedDELETE/RightPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/PressedDELETE/YesPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/RankedMatch/RankedMatchPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/RankedMatch/RankedMatchReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Refuse/RefusePressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Refuse/RefuseReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/ReleasedDELETE/BattleRankedReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/ReleasedDELETE/BattleReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/ReleasedDELETE/LeftReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/ReleasedDELETE/NoReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/ReleasedDELETE/OkReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/ReleasedDELETE/RightReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/ReleasedDELETE/YesReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Right/RightPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Right/RightReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Yes/YesPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Battle/Button/Yes/YesReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Background/AddFriend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Background/Field.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Background/FriendRequests.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Background/FriendsList.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Background/oldFriendRequests.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Accept/AcceptPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Accept/AcceptReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Add/AddPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Add/AddReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Battle/BattlePressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Battle/BattleReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Decline/DeclinePressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Decline/DeclineReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Left/LeftPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Left/LeftReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Left/RequestsLeftPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Left/RequestsLeftReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Left/oldLeftReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Loupe/LoupePressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Loupe/LoupeReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Remove/RemovePressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Remove/RemoveReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Right/RequestsRightPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Right/RequestsRightReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Right/RightPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Friends/Button/Right/RightReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Background/Field.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Background/Field2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Background/ListBattle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Background/RankedListBattle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Background/RankedListBattle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Background/StandardListBattle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Background/StandardListBattle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Button/Left/LeftPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Button/Left/LeftReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Button/Right/RightPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/ListBattles/Button/Right/RightReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Background/Menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/Battle/BattlePressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/Battle/BattleReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/Exit/ExitPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/Exit/ExitReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/Friends/FriendsPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/Friends/FriendsReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/Friends/OLDFriendsPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/Friends/OLDFriendsReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/ListBattles/ListBattlesPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/ListBattles/ListBattlesReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/Shop/ShopPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Menu/Button/Shop/ShopReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Registration/Background/LoginRegBack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Registration/Background/RegTexture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Registration/Button/Entry/EntryPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Registration/Button/Registration/RegistrationPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Registration/Button/Registration/RegistrationReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Background/BackgroundCard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Background/BackgroundShop .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Background/CharacterCard — копия.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Background/CharacterCard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Background/CharacterShop .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Button/Buy/BuyPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Button/Buy/BuyReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Button/Left/LeftPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Button/Left/LeftReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Button/Purchases/PurchasesPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Button/Purchases/PurchasesReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Button/Right/RightPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Button/Right/RightReleased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Button/Select/SelectPressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/UI/Shop/Button/Select/SelectReleased.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.23.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2y8XvcG3VbuKpzabKXJvnEg6rix" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/_I_/Desktop/vkrGame",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-5df93f7ad4aa-dfc284eb1eb8-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-242.20224.306" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-GO-242.20224.306" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/codeClient" />
+      <path value="$PROJECT_DIR$/codeServer" />
+    </ignored-roots>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
