@@ -28,9 +28,9 @@ const (
 	MsgExit
 	MsgSuccess
 	MsgError
-	MsgAuthorization   // Authorization
-	MsgRegistration    // Registration
-	MsgActionCharacter // ActionCharacter
+	MsgAuthorization
+	MsgRegistration
+	MsgActionCharacter
 	MsgActionOpponent
 	MsgHealthUpdate
 	MsgFriendsData
@@ -41,8 +41,8 @@ const (
 	MsgAcceptChallengeToFight
 	MsgRefuseChallengeToFight
 	MsgRemoveFriend
-	MsgBattle       // Battle
-	MsgBattleRanked // BattleRanked
+	MsgBattle
+	MsgBattleRanked
 	MsgExitBattle
 	MsgWaitingBattle
 	MsgStartBattleInfo
@@ -244,7 +244,7 @@ func AuthorizationRegistrationToServer(data []byte) (net.Conn, *UserData, error)
 	conn.SetReadDeadline(time.Now().Add(10 * time.Second))
 
 	// Отправка данных
-	err = SendMessage(conn, data) //err = conn.WriteMessage(websocket.BinaryMessage, data)
+	err = SendMessage(conn, data)
 	if err != nil {
 		CloseConnection(conn)
 		fmt.Println("Не удалось отправить данные на сервер: ", err)
